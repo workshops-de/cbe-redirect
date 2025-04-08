@@ -31,4 +31,4 @@ Diese Weiterleitungsseite informiert Besucher, dass alle IT-Weiterbildungsangebo
 
 ## Lizenz
 
-Alle Rechte vorbehalten - Coding Bootcamps Europe
+Alle Rechte vorbehalten - symetics GmbH
